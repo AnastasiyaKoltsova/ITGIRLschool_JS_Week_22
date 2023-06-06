@@ -1,0 +1,10 @@
+.App {
+    width: 50vw;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.hero-card img {
+    width: 100%;
+    border-radius: 15px;
+}
